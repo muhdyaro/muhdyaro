@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-
-**muhdyaro/muhdyaro** 
-My name is Muhammad Yaro Developer I'm a 3rd year student of B.sc Software Engineering with 1 year frontend experince, a Fellow of Arewa Data Science Academy preparing do dive into Data Science, Machine Learning and AI.* 🌍  I'm based in Kano, Nigeria* ✉️  You can contact me at [muhdayaro@gmail.com](mailto:muhdayaro@gmail.com)* 🧠  I'm learning Data Science
+My name is Muhammad Yaro I'm a 3rd year student of B.sc Software Engineering with 1 year frontend experince, a Fellow of Arewa Data Science Academy preparing do dive into Data Science, Machine Learning and AI.* 🌍  I'm based in Kano, Nigeria* ✉️  You can contact me at [muhdayaro@gmail.com](mailto:muhdayaro@gmail.com)* 
 
 ### Skills
 
